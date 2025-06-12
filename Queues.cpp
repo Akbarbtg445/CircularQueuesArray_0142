@@ -54,6 +54,7 @@ class Queues {
         } 
         else 
         {
+            //jika elemen yang di hapus berada di posisi terakhir, kembali ke awal array
             if (FRONT == max -1)
             FRONT = 0;
             else
