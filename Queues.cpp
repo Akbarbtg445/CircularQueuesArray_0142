@@ -152,4 +152,4 @@ int main ()
             cout << "Check for the values entred." << endl;
         }
     }
-} 
+} ;
