@@ -52,11 +52,11 @@ class Queues {
             FRONT = -1;
             REAR = -1;
         } 
-        else {
-            if (FRONT == max -1);
+        else 
+        {
+            if (FRONT == max -1)
             FRONT = 0;
             else
-            
             FRONT = FRONT +1;
         }
     }
@@ -133,7 +133,7 @@ int main ()
                 }
                 case '3':
                 {
-                    q.display():
+                    q.display();
                     break;
                 }
                 case '4':
