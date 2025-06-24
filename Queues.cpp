@@ -13,10 +13,10 @@
  * 
  * @section cara penggunaan 
  * Berikut beberapa menu yang bisa digunakan :
- * 1. en queue
+ * 1.en queue
  * 2.de queue
  * 3.display
- * 4. exit
+ * 4.exit
  * 
  * @author Profil
  * -nama :{M.Ridho Akbar}
